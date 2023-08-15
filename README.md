@@ -11,7 +11,7 @@ Welcome to a collection of my professional projects developed for the University
 
 Navigate to the individual project documentation to explore each project in detail: 
 - [LRCo Web Application](https://github.com/ctheil/professional-projects/blob/main/docs/lrco.md)
-_Next.js, Firebase_ [Live Site](https://www.ucdenver.xyz)
+_Next.js, Firebase_ [Live Site](https://ucdenver.xyz/learning-resources-center)
 - [DigiSign for Apple tvOS](https://github.com/ctheil/professional-projects/blob/main/docs/DigiSign.md)
 _React Native, TypeScript_
 - [Analytics Client for iPadOS](https://github.com/ctheil/professional-projects/blob/main/docs/analytics-client.md)
