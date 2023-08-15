@@ -3,7 +3,7 @@
 ## Overview
 
 **The Backbone of LRC's Digital Transformation!** 
-The LRC API, developed using Express.js, began as the core for the DigiSign application but rapidly evolved to become the central hub supporting all LRC technological solutions. It seamlessly integrates with MongoDB, ensuring robust data management and real-time updates across all connected platforms.
+The LRC API, developed using Express.js and TypeScript, began as the core for the DigiSign application but rapidly evolved to become the central hub supporting all LRC technological solutions. It seamlessly integrates with MongoDB, ensuring robust data management and real-time updates across all connected platforms.
 ## Features
 ### Comprehensive Database Management
 - Seamlessly integrates with MongoDB, ensuring robust, scalable, and real-time data management across all LRC platforms.
