@@ -1,6 +1,6 @@
 # DigiSign: Digital Signage Solution for Apple tvOS
 
-![RNtech-stack](https://github.com/ctheil/professional-projects/assets/86980706/132efdfe-8a7d-43d7-a660-ebd13f73499c)
+<img width="300" alt="DigiSign-Tech_Stck" src="https://github.com/ctheil/professional-projects/assets/86980706/132efdfe-8a7d-43d7-a660-ebd13f73499c">
 
 ## Overview
 
