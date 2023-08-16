@@ -10,13 +10,18 @@ Welcome to a collection of my professional projects developed for the University
 ## Dive Deeper:
 
 Navigate to the individual project documentation to explore each project in detail: 
-- [LRCo Web Application](https://github.com/ctheil/professional-projects/blob/main/docs/lrco.md)
-_Next.js, Firebase_ [Live Site](https://ucdenver.xyz/learning-resources-center)
+- [LRCo Web Application](https://github.com/ctheil/professional-projects/blob/main/docs/lrco.md) [Live Site](https://ucdenver.xyz/learning-resources-center)
+
+![LRCotech-stack](https://github.com/ctheil/professional-projects/assets/86980706/2884ef35-448f-43e9-a5b5-4211d0246939)
+
 - [DigiSign for Apple tvOS](https://github.com/ctheil/professional-projects/blob/main/docs/DigiSign.md)
-_React Native, TypeScript_
 - [Analytics Client for iPadOS](https://github.com/ctheil/professional-projects/blob/main/docs/analytics-client.md)
-_React Native, TypeScript_
+
+![RNtech-stack](https://github.com/ctheil/professional-projects/assets/86980706/e9ffd7c6-e793-4564-bf25-b09caa84009b)
+
 - [LRC API](https://github.com/ctheil/professional-projects/blob/main/docs/lrc-api.md)
-_Express.js, Typescript, Docker, GCP/GAE-Flex_
+
+![lrc__apitech-stack](https://github.com/ctheil/professional-projects/assets/86980706/c3c56789-3cb5-40a2-a406-aae454d0e447)
+
 
 Thank you for exploring my professional projects. I'm always eager to take on new challenges and push the boundaries of what's possible in the tech world. Feel free to reach out for collaborations or discussions!---
