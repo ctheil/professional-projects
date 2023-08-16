@@ -1,5 +1,8 @@
 # LRCo: Learning Resources Center Web-Application
 
+<img width="100%" alt="home" src="https://github.com/ctheil/professional-projects/assets/86980706/7f6c34b3-7f6b-45d5-a4f9-a9ec80279f8d">
+
+
 
 ## Overview
 
@@ -27,3 +30,9 @@ A state-of-the-art platform designed and developed for the University of Colorad
 ## Dive Deeper
 
 As the Digital Strategist at the LRC, my vision was to transform the way tutors and students connect. This platform is the embodiment of that vision, merging innovation, functionality, and user-centric design. It stands as a testament to the transformative power of technology in reshaping educational services, pushing boundaries, and crafting engaging experiences for both tutors and students. Welcome to the future of tutoring services, today.---
+
+<img width="100%" alt="admin" src="https://github.com/ctheil/professional-projects/assets/86980706/1cc0fe8f-afa1-423f-9de5-b9bfaf8a6760">
+<img width="45%" alt="doc" src="https://github.com/ctheil/professional-projects/assets/86980706/ac774bfa-27c9-4c58-9844-08f309e03b05">
+<img width="50%" alt="doc_02" src="https://github.com/ctheil/professional-projects/assets/86980706/4b32032a-2c8f-4e33-b1b1-9b249ea337ea">
+
+![LRCotech-stack](https://github.com/ctheil/professional-projects/assets/86980706/2e4f4296-f4ee-475d-84b4-44e6282b283b)
