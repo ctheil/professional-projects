@@ -1,4 +1,4 @@
-# Caleb Theil's Professional Projects
+# Professional Projects
 
 Welcome to a collection of my professional projects developed for the University of Colorado Denver's Learning Resources Center (LRC). This repository showcases my adaptability, innovation, and depth of knowledge across various platforms and technologies.
 ## Highlights: 
