@@ -1,4 +1,5 @@
 # 🎓 LRCo: Learning Resources Center Web-Application
+## [Docs](https://ucdenver.xyz/learning-resources-center/docs)
 
 <img width="100%" alt="home" src="https://github.com/ctheil/professional-projects/assets/86980706/7f6c34b3-7f6b-45d5-a4f9-a9ec80279f8d">
 
