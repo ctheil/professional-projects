@@ -30,7 +30,7 @@ A state-of-the-art platform designed and developed for the University of Colorad
 - A tvOS app for Apple TV is in development, envisioned as a digital signage solution to display real-time session information for on-the-move students.
 
 ## 🌊 Dive Deeper
-As the Digital Strategist at the LRC, my vision was to transform the way tutors and students connect. This platform is the embodiment of that vision, merging innovation, functionality, and user-centric design. It stands as a testament to the transformative power of technology in reshaping educational services, pushing boundaries, and crafting engaging experiences for both tutors and students. Welcome to the future of tutoring services, today.
+As the Lead Software Engineer and Digital Strategist at the LRC, my vision was to transform the way tutors and students connect. This platform is the embodiment of that vision, merging innovation, functionality, and user-centric design. It stands as a testament to the transformative power of technology in reshaping educational services, pushing boundaries, and crafting engaging experiences for both tutors and students. Welcome to the future of tutoring services, today.
 
 
 <img width="100%" alt="admin" src="https://github.com/ctheil/professional-projects/assets/86980706/1cc0fe8f-afa1-423f-9de5-b9bfaf8a6760">
