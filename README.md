@@ -10,7 +10,7 @@ Welcome to a collection of my professional projects developed for the University
 ## Dive Deeper 🌊:
 
 Navigate to the individual project documentation to explore each project in detail: 
-- [LRCo Web Application](https://github.com/ctheil/professional-projects/blob/main/docs/lrco.md)  [Live Site](https://ucdenver.xyz/learning-resources-center/docs)
+- [LRCo Web Application](https://github.com/ctheil/professional-projects/blob/main/docs/lrco.md)  [Live Site](https://ctheiltutoring.vercel.app/learning-resources-center/docs)
 
 <img width="300" alt="LRCo-Tech_Stck" src="https://github.com/ctheil/professional-projects/assets/86980706/2884ef35-448f-43e9-a5b5-4211d0246939"> 
 
